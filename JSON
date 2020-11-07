@@ -1,0 +1,25 @@
+{
+    "userData": {
+        "userId": 1,
+        "username": "agungabhirama",
+        "firstName": "I Gusti Agung Gde",
+        "lastName": "Abhirama Adnyana",
+        "password": "123456789};gxc",
+        
+        "timeStamps": {
+            "dateJoined": "21-Des-2000",
+            "dateUpdated": "07-Nov-2020"
+        }
+    },
+    
+    "topics": [
+        {
+            "topicId": 1,
+            "topicName": "Latihan XML dan JSON"
+        },
+        {
+            "topicID": 2,
+            "topicName": "Error di baris berikutnya"
+        }
+    ]
+}
