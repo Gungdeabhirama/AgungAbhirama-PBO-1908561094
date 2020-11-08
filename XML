@@ -5,14 +5,33 @@
         <UserName>Agung Abhirama</UserName>
         <FirstName>I Gusti Agung Gde</FirstName>
         <LastName>Abhirama Adnyana</LastName>
-        <Password 
-            hashAlgorithm="algoritmaX">
-            123456789;gxc
-        </Password>
+        <Password>123456789</Password>
 
         <TimeStampts>
-            <DateJoined>21-Des-2000</DateJoined>
+            <DateJoined>21-Des-2010</DateJoined>
             <DateUpdated>07-Nov-2020</DateUpdated>
+        </TimeStampts>
+        
+        <UserId>2</UserId>
+        <UserName>ragilPN</UserName>
+        <FirstName>Catur Ragil</FirstName>
+        <LastName>Putra Nanda</LastName>
+        <Password>987654321</Password>
+        
+        <TimeStampts>
+            <DateJoined>22-Des-2010</DateJoined>
+            <DateUpdated>06-Nov-2020</DateUpdated>
+        </TimeStampts>
+        
+        <UserId>3</UserId>
+        <UserName>Boomski99</UserName>
+        <FirstName>Kadek Krisna</FirstName>
+        <LastName>Dwipayana</LastName>
+        <Password>seringtidur</Password>
+        
+        <TimeStampts>
+            <DateJoined>26-Des-2010</DateJoined>
+            <DateUpdated>11-Okt-2020</DateUpdated>
         </TimeStampts>
 
     </UserData>
@@ -24,7 +43,11 @@
         </Topic>
         <Topic>
             <TopicId>2</TopicId>
-            <TopicName>Error di baris kode berikut</TopicName>
+            <TopicName>Test XML & JSon</TopicName>
+        </Topic>
+        <Topics>
+            <TopicId>3</TopicId>
+            <TopicName>percobaan XML & JSon</TopicName>
         </Topic>
     </Topics>
 
