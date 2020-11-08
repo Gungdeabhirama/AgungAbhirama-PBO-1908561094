@@ -1,0 +1,57 @@
+{
+    "userData": {
+        "userId": 1,
+        "username": "AgungAbhirama",
+        "firstName": "I Gusti Agung Gde",
+        "lastName": "Abhirama Adnyana",
+        "gender": "pria",
+        "password": "123456789",
+        
+        "timeStamps": {
+            "dateJoined": "21-Des-2010",
+            "dateUpdated": "07-Nov-2020"
+        },
+        
+        {
+        "userId": 2,
+        "username": "ragilPN",
+        "firstName": "Catur Ragil",
+        "lastName": "Putra Nanda",
+        "gender": "pria",
+        "password": "987654321",
+        
+        "timeStamps": {
+            "dateJoined": "21-Des-2010",
+            "dateUpdated": "06-Nov-2020"
+        },
+        
+         {
+        "userId": 3,
+        "username": "Boomski99",
+        "firstName": "Kadek Krisna",
+        "lastName": "Dwipayana",
+        "gender": "pria",
+        "password": "seringtidur",
+        
+        "timeStamps": {
+            "dateJoined": "26-Des-2010",
+            "dateUpdated": "11-Okt-2020"
+        },
+    },
+    
+    "topics": [
+        { 
+        
+            "topicId": 1,
+            "topicName": "Latihan XML dan JSON"
+        },
+        {
+            "topicID": 2,
+            "topicName": "Test XML dan JSon"
+        },
+        {
+            "topicID": 3,
+            "topicName": "Percobaan XML dan JSon"
+        },
+    ]
+}
