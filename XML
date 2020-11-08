@@ -43,11 +43,11 @@
         </Topic>
         <Topic>
             <TopicId>2</TopicId>
-            <TopicName>Test XML & JSon</TopicName>
+            <TopicName>Test XML dan JSon</TopicName>
         </Topic>
         <Topics>
             <TopicId>3</TopicId>
-            <TopicName>percobaan XML & JSon</TopicName>
+            <TopicName>percobaan XML dan JSon</TopicName>
         </Topic>
     </Topics>
 
